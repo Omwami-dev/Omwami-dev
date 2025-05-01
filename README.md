@@ -34,7 +34,7 @@ I am a back-end development learner at ALX, passionate about leveraging software
 
 ## 📬 Connect with Me
 - [LinkedIn](https://linkedin.com/in/innocent-barasa-2229241ba)
-- [Email](barasaowabarasa@gmail.com)
+- [Email](mailto:barasaowabarasa@gmail.com)
 - [Twitter](https://x.com/Innocious_Found?t=WS99uxvVZb-o8R5fxpau4w&s=08)
 
 ---
