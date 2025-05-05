@@ -5,7 +5,7 @@ Empowering communities through technology and fostering sustainable development.
 ---
 
 ## 📖 About Me
-I am a back-end development learner at ALX, passionate about leveraging software engineering to uplift communities and create impactful solutions. My goal is to harness technology to transform lives and drive sustainable progress.
+I am a software engineering learner at ALX, passionate about leveraging software engineering to uplift communities and create impactful solutions. My goal is to harness technology to transform lives and drive sustainable progress.
 
 ---
 
@@ -15,6 +15,9 @@ I am a back-end development learner at ALX, passionate about leveraging software
 - **💼 Job and Skills Platform**: Connecting job seekers with opportunities tailored to their skills.
 - **🤖 AI-powered Tutor**: Delivering personalized education experiences using AI technology.
 - **📚 E-learning Platform**: Creating accessible and engaging online learning environments.
+- **🌱 Ed-Tech for Rural Areas**: Promoting accessible education for underprivileged communities
+- **🖥️ Portfolio Website with Blog Engine**: Showcasing expertise and sharing knowledge
+   
 
 ---
 
@@ -24,11 +27,12 @@ I am a back-end development learner at ALX, passionate about leveraging software
 
 ---
 
-## 🛠️ Skills & Tools
-- 💻 **Programming Languages**: Python, JavaScript
-- 🛠 **Frameworks**: Node.js, Express, Django
-- 🔧 **Tools**: Git, Docker, Postman
-- ☁ **Cloud Platforms**: AWS, Azure
+ ### Tools & Technologies:
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Django, React
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Other Tools**: Git, Docker, REST APIs
+
 
 ---
 
@@ -41,3 +45,6 @@ I am a back-end development learner at ALX, passionate about leveraging software
 
 ## ✨ Inspirational Quote
 > "Technology is the greatest tool for creating opportunities and fostering equitable development."
+---
+
+Thank you for visiting my GitHub profile! Explore my repositories, connect with me, and let’s make a difference together. 🚀
