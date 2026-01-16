@@ -5,7 +5,7 @@ Empowering communities through technology and fostering sustainable development.
 ---
 
 ## 📖 About Me
-I am a software engineering learner at ALX, passionate about leveraging software engineering to uplift communities and create impactful solutions. My goal is to harness technology to transform lives and drive sustainable progress.
+I am a software engineer who is passionate about leveraging software engineering to uplift communities and create impactful solutions. My goal is to harness technology to transform lives and drive sustainable progress.
 
 ---
 
